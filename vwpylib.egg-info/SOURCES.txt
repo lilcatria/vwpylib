@@ -1,0 +1,14 @@
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+tests/test.py
+vwpylib/__init__.py
+vwpylib/utilities.py
+vwpylib.egg-info/PKG-INFO
+vwpylib.egg-info/SOURCES.txt
+vwpylib.egg-info/dependency_links.txt
+vwpylib.egg-info/requires.txt
+vwpylib.egg-info/top_level.txt
+vwpylib/data_utilities/__init__.py
+vwpylib/data_utilities/databento.py
